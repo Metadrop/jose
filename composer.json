@@ -28,7 +28,7 @@
         "php": ">=7.0",
         "ext-gmp": "*",
         "lib-openssl": "*",
-        "spomky-labs/base64url": "^1.0",
+        "spomky-labs/base64url": "^1.0|^2.0",
         "spomky-labs/aes-key-wrap": "^3.0|^4.0",
         "spomky-labs/php-aes-gcm": "^1.2",
         "beberlei/assert": "^2.4",
